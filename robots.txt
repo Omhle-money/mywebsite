@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https:// omhle-money.github.io/mywebsite/sitemap.xml

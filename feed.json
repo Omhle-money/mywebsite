@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DIGIBANK.COM",
+    "description": "",
+    "home_page_url": "https:// omhle-money.github.io/mywebsite",
+    "feed_url": "https:// omhle-money.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Omhle Ntsebeza"
+    },
+    "items": [
+        {
+            "id": "https:// omhle-money.github.io/mywebsite/bank.html",
+            "url": "https:// omhle-money.github.io/mywebsite/bank.html",
+            "title": "Bank",
+            "summary": "Banking Made Smart MAKE MONEY D",
+            "content_html": "<h1 class=\"align-center\">Banking Made Smart</h1>\n<h2 class=\"align-center\"><span style=\"color: #2dc26b;\">MAKE MONEY D</span></h2>",
+            "author": {
+                "name": "Omhle Ntsebeza"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-05T09:16:26+02:00",
+            "date_modified": "2024-09-05T09:16:38+02:00"
+        }
+    ]
+}
